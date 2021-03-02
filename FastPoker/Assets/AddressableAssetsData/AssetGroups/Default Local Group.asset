@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ec1122c9eaf8be943b8941ea5778f7ce
+  m_SerializeEntries:
+  - m_GUID: 5cbff9fb17f792f48a93ef36bc0a6a31
+    m_Address: CardsBasic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 2800000, guid: 5cbff9fb17f792f48a93ef36bc0a6a31, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5cbff9fb17f792f48a93ef36bc0a6a31, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 49cd39c03ac37dc4bb620cb12742d949, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f675a844f00778d478ed9b8941a1cda0, type: 2}
+    - {fileID: 11400000, guid: 2abe5562e413d654a80c47185a12741d, type: 2}

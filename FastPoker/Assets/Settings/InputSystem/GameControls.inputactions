@@ -1,0 +1,33 @@
+{
+    "name": "Gameplay",
+    "maps": [
+        {
+            "name": "Controls",
+            "id": "4e9cd95c-8b44-48dd-9307-34733713fbf8",
+            "actions": [
+                {
+                    "name": "ChangeCard",
+                    "type": "Button",
+                    "id": "1ebd0b4d-ef6d-4b47-abba-151fa3781a9b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "aaa19e69-a3e0-4047-a259-700be66fdb3a",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeCard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

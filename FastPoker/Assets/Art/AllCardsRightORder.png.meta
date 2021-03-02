@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 5cbff9fb17f792f48a93ef36bc0a6a31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4406839698365379111
+    second: AllCardsRightORder_0
+  - first:
+      213: -5036908984880868420
+    second: AllCardsRightORder_1
+  - first:
+      213: -1655327817140369766
+    second: AllCardsRightORder_2
+  - first:
+      213: -1443772213921014432
+    second: AllCardsRightORder_3
+  - first:
+      213: -5599788953101540271
+    second: AllCardsRightORder_4
+  - first:
+      213: -8714446530739949209
+    second: AllCardsRightORder_5
+  - first:
+      213: 2441019420673194439
+    second: AllCardsRightORder_6
+  - first:
+      213: 345093780912516281
+    second: AllCardsRightORder_7
+  - first:
+      213: -581816515770774135
+    second: AllCardsRightORder_8
+  - first:
+      213: 2563858498083883721
+    second: AllCardsRightORder_9
+  - first:
+      213: -7278414158802501281
+    second: AllCardsRightORder_10
+  - first:
+      213: -8200043673913957295
+    second: AllCardsRightORder_11
+  - first:
+      213: 826907342433606844
+    second: AllCardsRightORder_12
+  - first:
+      213: 6227388947844310965
+    second: AllCardsRightORder_13
+  - first:
+      213: 9036546809145649255
+    second: AllCardsRightORder_14
+  - first:
+      213: 7782539058795277512
+    second: AllCardsRightORder_15
+  - first:
+      213: 3888565465726849770
+    second: AllCardsRightORder_16
+  - first:
+      213: -1001460244203766998
+    second: AllCardsRightORder_17
+  - first:
+      213: -351663921307208466
+    second: AllCardsRightORder_18
+  - first:
+      213: 535082496006459699
+    second: AllCardsRightORder_19
+  - first:
+      213: -5495394867498030739
+    second: AllCardsRightORder_20
+  - first:
+      213: 1777954655733269911
+    second: AllCardsRightORder_21
+  - first:
+      213: -7617223474805991894
+    second: AllCardsRightORder_22
+  - first:
+      213: 72214706277990206
+    second: AllCardsRightORder_23
+  - first:
+      213: -5564619189586456899
+    second: AllCardsRightORder_24
+  - first:
+      213: -1913300067762812805
+    second: AllCardsRightORder_25
+  - first:
+      213: -6270847732730487325
+    second: AllCardsRightORder_26
+  - first:
+      213: 5890927722878506592
+    second: AllCardsRightORder_27
+  - first:
+      213: -7834892783512737927
+    second: AllCardsRightORder_28
+  - first:
+      213: -7153845180696782226
+    second: AllCardsRightORder_29
+  - first:
+      213: 7365772449211979644
+    second: AllCardsRightORder_30
+  - first:
+      213: -6953317157271175714
+    second: AllCardsRightORder_31
+  - first:
+      213: 1921763275737147924
+    second: AllCardsRightORder_32
+  - first:
+      213: -8609946554755394011
+    second: AllCardsRightORder_33
+  - first:
+      213: -5148731230124629632
+    second: AllCardsRightORder_34
+  - first:
+      213: 8237465810688773530
+    second: AllCardsRightORder_35
+  - first:
+      213: 7401482003270267040
+    second: AllCardsRightORder_36
+  - first:
+      213: -332886952096574133
+    second: AllCardsRightORder_37
+  - first:
+      213: 7144078579033821365
+    second: AllCardsRightORder_38
+  - first:
+      213: -5054153539724812718
+    second: AllCardsRightORder_39
+  - first:
+      213: 5960760497146419283
+    second: AllCardsRightORder_40
+  - first:
+      213: 5814569781828776987
+    second: AllCardsRightORder_41
+  - first:
+      213: -5027386118020530114
+    second: AllCardsRightORder_42
+  - first:
+      213: 6498445732441805985
+    second: AllCardsRightORder_43
+  - first:
+      213: -8789772586108269195
+    second: AllCardsRightORder_44
+  - first:
+      213: -6073270984566498915
+    second: AllCardsRightORder_45
+  - first:
+      213: -9091731761464120220
+    second: AllCardsRightORder_46
+  - first:
+      213: 6545663970628834826
+    second: AllCardsRightORder_47
+  - first:
+      213: 6894274527602876728
+    second: AllCardsRightORder_48
+  - first:
+      213: -8491685320539264765
+    second: AllCardsRightORder_49
+  - first:
+      213: -9132746029573218069
+    second: AllCardsRightORder_50
+  - first:
+      213: -3197076763460555349
+    second: AllCardsRightORder_51
+  - first:
+      213: 1912399230345520004
+    second: AllCardsRightORder_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AllCardsRightORder_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd87dc84a2c7d2c0800000000000000
+      internalID: -4406839698365379111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d33607fd491ab0800000000000000
+      internalID: -5036908984880868420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1627
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968680ee181709e0800000000000000
+      internalID: -1655327817140369766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d98a422d0b6fbe0800000000000000
+      internalID: -1443772213921014432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e939bd9d8942b0800000000000000
+      internalID: -5599788953101540271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_5
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613c192d01101780800000000000000
+      internalID: -8714446530739949209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_6
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1627
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93e03ea3e30e120800000000000000
+      internalID: 2441019420673194439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_7
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcac7127f40ac400800000000000000
+      internalID: 345093780912516281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_8
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d070526f8fce7f0800000000000000
+      internalID: -581816515770774135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_9
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca08a858b7a49320800000000000000
+      internalID: 2563858498083883721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_10
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1627
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514760a2e0edfa90800000000000000
+      internalID: -7278414158802501281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_11
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546ba969b7933e80800000000000000
+      internalID: -8200043673913957295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_12
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1627
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcdae7c8d3c97b00800000000000000
+      internalID: 826907342433606844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7247201412c6650800000000000000
+      internalID: 6227388947844310965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768e05bf173486d70800000000000000
+      internalID: 9036546809145649255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1251
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc68125a02210c60800000000000000
+      internalID: 7782539058795277512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2108640b5f6f530800000000000000
+      internalID: 3888565465726849770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bfe8fb6391a12f0800000000000000
+      internalID: -1001460244203766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b92ad683ae1bf0800000000000000
+      internalID: -351663921307208466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_19
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1251
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319ef3f1befc6700800000000000000
+      internalID: 535082496006459699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_20
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69664edb7f6cb3b0800000000000000
+      internalID: -5495394867498030739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_21
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795cbb1e6509ca810800000000000000
+      internalID: 1777954655733269911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_22
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a261c618b9f2a4690800000000000000
+      internalID: -7617223474805991894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_23
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1251
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f324b84ee800100800000000000000
+      internalID: 72214706277990206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_24
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe8066645086c2b0800000000000000
+      internalID: -5564619189586456899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_25
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1251
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784448b9b79275e0800000000000000
+      internalID: -1913300067762812805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1902263979f8a0800000000000000
+      internalID: -6270847732730487325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0669caf6d87c0c150800000000000000
+      internalID: 5890927722878506592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 874
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a371468ed44390800000000000000
+      internalID: -7834892783512737927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a9d6af5bf68bc90800000000000000
+      internalID: -7153845180696782226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7793ab540b783660800000000000000
+      internalID: 7365772449211979644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_31
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf83eb2ead08f90800000000000000
+      internalID: -6953317157271175714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_32
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 874
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a24b074897baa10800000000000000
+      internalID: 1921763275737147924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_33
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d4b4d933538880800000000000000
+      internalID: -8609946554755394011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_34
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812670b9380c88b0800000000000000
+      internalID: -5148731230124629632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_35
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d8787c28b515270800000000000000
+      internalID: 8237465810688773530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_36
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 874
+        width: 190
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0fe50daa857b660800000000000000
+      internalID: 7401482003270267040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_37
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45dbeda419516bf0800000000000000
+      internalID: -332886952096574133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_38
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 874
+        width: 189
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d9cedd9dd42360800000000000000
+      internalID: 7144078579033821365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e5b68322a0cd9b0800000000000000
+      internalID: -5054153539724812718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d7973710e8b250800000000000000
+      internalID: 5960760497146419283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_41
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 497
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ff9fd86081b050800000000000000
+      internalID: 5814569781828776987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_42
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3008ae36f22b3ab0800000000000000
+      internalID: -5027386118020530114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_43
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4d852a6fd1f2a50800000000000000
+      internalID: 6498445732441805985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_44
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dcc843764740680800000000000000
+      internalID: -8789772586108269195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_45
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 497
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991a34973867bba0800000000000000
+      internalID: -6073270984566498915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_46
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c6bcc022ea3d180800000000000000
+      internalID: -9091731761464120220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_47
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06976c63bed6da50800000000000000
+      internalID: 6545663970628834826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_48
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312bc9c7226daf50800000000000000
+      internalID: 6894274527602876728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_49
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 497
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309abdc1139772a80800000000000000
+      internalID: -8491685320539264765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_50
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ed6b9fd7f14180800000000000000
+      internalID: -9132746029573218069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_51
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 497
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad274a5f93b1a3d0800000000000000
+      internalID: -3197076763460555349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AllCardsRightORder_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a979b7f43a8a10800000000000000
+      internalID: 1912399230345520004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
